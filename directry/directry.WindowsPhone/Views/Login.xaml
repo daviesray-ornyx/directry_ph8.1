@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="directry.Views.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:directry"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding UserDetailVM, RelativeSource={RelativeSource Self}}">
+
+    
+    <Grid Background="#FF4C4CF5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="83*"/>
+            <RowDefinition Height="557*"/>
+        </Grid.RowDefinitions>
+        <TextBlock TextWrapping="Wrap" Text="directry" Style="{StaticResource HeaderTextBlockStyle}" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <StackPanel Orientation="Vertical" Grid.Row="1"  Margin="10,0" Height="Auto">
+            <StackPanel>
+                <TextBlock Text="Username" FontSize="20.26"/>
+                <TextBox x:Name="tboxUsername" InputScope="EmailSmtpAddress" Text="{Binding Username, Mode=TwoWay}"  Style="{StaticResource dirBlackBorderTextBox}" />
+            </StackPanel>
+            <StackPanel>
+                <TextBlock  Text="Password" FontSize="20.26"/>
+                <PasswordBox x:Name="tboxPassword" Password="{Binding Password, Mode=TwoWay}" Style="{StaticResource dirBlackBorderPasswordBox}"  />
+            </StackPanel>
+            <Button x:Name="btnLogin" Content="Log in" Command="{Binding SignInCommand}" CommandParameter="{Binding}" />
+            <TextBlock Visibility="Collapsed" Foreground="Red" x:Name="tblockResetPassword" FontSize="20.26" Margin="0,20,0,0" Tapped="tblockResetPassword_Tapped" >
+                <Underline>
+                    <Run Text="Invalid Credentials. Reset Password?" />
+                </Underline>
+            </TextBlock>
+            <TextBlock x:Name="tblockSignUp" FontSize="20.26" Margin="0,20,0,0" Tapped="tblockSignUp_Tapped">
+                <Underline>
+                    <Run Text="Sign up for directry" />
+                </Underline>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>

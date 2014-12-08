@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ORNYXOFT</Machine>
+    <WindowsUser>Ornyxoft.me</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>146c5bb7-96f1-416f-a79e-a14db017cb51</PackageIdentityName>
+    <IntermediateOutputPath>F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.exe">
+      <PackagePath>directry.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\packages\Newtonsoft.Json.6.0.6\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\DirectoryView.xbf">
+      <PackagePath>Views\DirectoryView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\InstitutionProfileView.xbf">
+      <PackagePath>Views\InstitutionProfileView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\Login.xbf">
+      <PackagePath>Views\Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\PasswordResetView.xbf">
+      <PackagePath>Views\PasswordResetView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\PersonProfileView.xbf">
+      <PackagePath>Views\PersonProfileView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\RequestPasswordResetCodeView.xbf">
+      <PackagePath>Views\RequestPasswordResetCodeView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\Signup.xbf">
+      <PackagePath>Views\Signup.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.xr.xml">
+      <PackagePath>directry.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

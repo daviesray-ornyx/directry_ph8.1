@@ -1,0 +1,214 @@
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\App.xbf
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.xr.xml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.exe
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.pdb
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\resources.pri
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\AppxManifest.xml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.build.appxrecipe
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\App.g.i.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\App.g.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\App.xaml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\App.xbf
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.exe
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.pdb
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\Views\Login.xbf
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.i.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xaml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xbf
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.i.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.cs
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xaml
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xbf
+F:\Development\Tutorials\Windows Phone & Windows Store\directry\directry\directry.WindowsPhone\bin\Debug\Views\Signup.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\App.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\Views\Login.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\Views\Signup.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.xr.xml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.exe
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.pdb
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\resources.pri
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.build.appxrecipe
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\App.g.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.i.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.i.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\App.xaml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xaml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xaml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\App.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xbf
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.exe
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.pdb
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Apptuned\uFindit\Windows\deployed\directry\directry\directry.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\App.xbf
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\Views\Login.xbf
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\Views\Signup.xbf
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.xr.xml
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.exe
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.pdb
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\resources.pri
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\AppxManifest.xml
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.build.appxrecipe
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+F:\Development\directry\directry\directry.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.csprojResolveAssemblyReference.cache
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\App.g.i.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\App.g.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.i.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.i.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\App.xaml
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xaml
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xaml
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\App.xbf
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xbf
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xbf
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.exe
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.pdb
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.csproj.GenerateResource.Cache
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Development\directry\directry\directry.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\App.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\Login.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\Signup.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.xr.xml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.exe
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.pdb
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\resources.pri
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\AppxManifest.xml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\directry.WindowsPhone.build.appxrecipe
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.csprojResolveAssemblyReference.cache
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.exe
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.pdb
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.csproj.GenerateResource.Cache
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\PersonProfileView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\DirectoryView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\InstitutionProfileView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\PasswordResetView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.csprojResolveAssemblyReference.cache
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.i.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xaml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\App.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\DirectoryView.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\InstitutionProfileView.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Login.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PasswordResetView.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\PersonProfileView.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\Signup.xbf
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.exe
+\\ORNYXOFT\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\directry.WindowsPhone.pdb
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\bin\Debug\Views\RequestPasswordResetCodeView.xbf
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\RequestPasswordResetCodeView.g.i.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\RequestPasswordResetCodeView.g.cs
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\RequestPasswordResetCodeView.xaml
+F:\Development\Dirrectry\windows phone\directry\directry\directry.WindowsPhone\obj\Debug\Views\RequestPasswordResetCodeView.xbf
